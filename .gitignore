@@ -1,5 +1,9 @@
-# Object file
-*.o
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
 
-# Ada Library Information
-*.ali
+Gemfile.lock
+*.gem
+
+.DS_Store
