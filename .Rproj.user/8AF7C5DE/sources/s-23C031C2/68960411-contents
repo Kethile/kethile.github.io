@@ -1,7 +1,7 @@
 # Site settings
 title: Kethile Alves
 description: 'Olá'
-url: 'https://kethile.github.io'
+url: 'http://thomas.zuehlke.family'
 baseurl: 'oiii'
 profilepic: '/images/tzuehlke.jpg'
 bkimage: '/images/bk1.jpg'
@@ -13,10 +13,10 @@ author:
   email: kethalves15@gmail.com
   
   facebook_username: https://www.facebook.com/KethyAlvesF
-  github_username:  Kethile
+  #github_username:  tzuehlke
   #linkedin_username:  thomas-zühlke-889182165
   #meetup_name: Azure-Meetup-Rostock-MV
-  
+
 # Build settings
 destination: _site
 markdown: kramdown
