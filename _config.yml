@@ -3,8 +3,8 @@ title: Kethile Alves
 description: 'Olá'
 url: 'https://kethile.github.io'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
-bkimage: '/images/bk1.jpg'
+#profilepic: '/images/tzuehlke.jpg'
+#bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
@@ -12,21 +12,21 @@ author:
   name: 'Kethile Alves'
   email: kethalves15@gmail.com
   
-  facebook_username: https://www.facebook.com/KethyAlvesF
+  facebook_username: KethyAlvesF
   github_username:  Kethile
   #linkedin_username:  thomas-zühlke-889182165
   #meetup_name: Azure-Meetup-Rostock-MV
   
 # Build settings
-destination: _site
-markdown: kramdown
-highlighter: rouge
+#destination: _site
+#markdown: kramdown
+#highlighter: rouge
 
-sass:
+#sass:
     sass_dir: _sass
     style: compressed
 
-kramdown:
+#kramdown:
   # use Github Flavored Markdown
   #input: GFM
   # do not replace newlines by <br>s
