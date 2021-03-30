@@ -4,7 +4,7 @@ description: 'Olá'
 url: 'https://kethile.github.io'
 baseurl: ''
 profilepic: '/images/kethile.jpg'
-bkimage: '/images/bk1.jpg'
+bkimage: '/images/cover.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
@@ -33,4 +33,4 @@ kramdown:
   hard_wrap: false
 
 #plugins: ['jekyll-paginate']
-exclude: ['README.md', 'screenshot-overview.png']
+#exclude: ['README.md', 'screenshot-overview.png']
