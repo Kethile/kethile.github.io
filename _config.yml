@@ -13,20 +13,20 @@ author:
   email: kethalves15@gmail.com
   
   facebook_username: https://www.facebook.com/KethyAlvesF
-  #github_username:  tzuehlke
+  instagram_username: kethilef
   #linkedin_username:  thomas-zühlke-889182165
   #meetup_name: Azure-Meetup-Rostock-MV
-
+  
 # Build settings
 destination: _site
 markdown: kramdown
 highlighter: rouge
 
-#sass:
+sass:
     sass_dir: _sass
     style: compressed
 
-#kramdown:
+kramdown:
   # use Github Flavored Markdown
   input: GFM
   # do not replace newlines by <br>s

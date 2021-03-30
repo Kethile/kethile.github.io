@@ -3,7 +3,7 @@
     "path": "~/mat computacional/git/kethile.github.io/_config.yml",
     "project_path": "_config.yml",
     "type": "yaml",
-    "hash": "1142352533",
+    "hash": "2932036162",
     "contents": "",
     "dirty": false,
     "created": 1617125308496.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "21,0",
-        "scrollLine": "8"
+        "cursorPosition": "15,30",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1617125447,
+    "lastKnownWriteTime": 1617125749,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1617125447089,
+    "last_content_update": 1617125749939,
     "read_only": false,
     "read_only_alternatives": []
 }
