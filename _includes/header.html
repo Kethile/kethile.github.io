@@ -65,15 +65,15 @@
               </li>
             {% endif %}
 
-            {% if site.author.meetup_name %}
-            <!-- Meetup -->
-            <li class="navigation__item">
-              <a href="https://www.meetup.com/{{ site.author.meetup_name }}" title="Meetup {{ site.author.meetup_name }}" target="_blank">
-                <!--<div style="font-size: 1.4rem;"><i class="fab fa-meetup fa-lg"></i></div>-->
-                <i class="fab fa-meetup fa-lg"></i>
-                <span class="label">Meetup</span>
-              </a>
-            </li>
+            {% if site.author.email %}
+              <!-- Email -->
+              <li class="navigation__item">
+                <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">
+                  <!--<i class="icon icon-mail"></i>-->
+                  <i class="fas fa-envelope fa-lg"></i>
+                  <span class="label">Email</span>
+                </a>
+              </li>
             {% endif %}
 
             {% if site.author.email %}
