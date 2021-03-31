@@ -18,7 +18,7 @@ author:
  # meetup_name: Azure-Meetup-Rostock-MV
 
 # Build settings
-destination: Bem vindo
+destination: _site
 markdown: kramdown
 highlighter: rouge
 
